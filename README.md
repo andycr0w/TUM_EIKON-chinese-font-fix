@@ -1,4 +1,4 @@
-# Ubuntu Chinese Font Fix
+# TUM-Eikon KDE Chinese Font Fix
 
 Install Chinese fonts without sudo in TUM Eikon.
 
