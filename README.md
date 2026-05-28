@@ -1,6 +1,8 @@
 # Ubuntu Chinese Font Fix
 
-Install Chinese fonts without sudo in TUM Eikon .
+Install Chinese fonts without sudo in TUM Eikon.
+
+为你的TUM机房电脑安装中文语言包
 
 ## Install
 
