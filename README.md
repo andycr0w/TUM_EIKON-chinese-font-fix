@@ -1,6 +1,6 @@
-# TUM-Eikon KDE Chinese Font Fix
+# TUM-EIKON Rechnerräume KDE Chinese Font Fix
 
-Install Chinese fonts without sudo in TUM Eikon.
+Install Chinese fonts without sudo in TUM EIKON Rechnerräume.
 
 为你的TUM机房电脑安装中文语言包
 
